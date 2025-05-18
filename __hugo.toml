@@ -1,0 +1,5 @@
+baseURL = 'https://georgefedoseev.com/'
+languageCode = 'en-us'
+title = 'George Fedoseev'
+
+staticDir = ["static"]
